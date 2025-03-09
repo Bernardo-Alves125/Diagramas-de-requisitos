@@ -302,7 +302,7 @@
         <mxCell id="T0We0NtcrN8elPUPlh7a-4" value="DIAGRAMAS DE CLASSE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T0We0NtcrN8elPUPlh7a-8" value="RF1: CRIAR CONTA DO USUÀRIO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="T0We0NtcrN8elPUPlh7a-8" value="RF1: CRIAR CONTA DO USUÀRIO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#73FF45;" parent="1" vertex="1">
           <mxGeometry x="190" y="-1050" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T0We0NtcrN8elPUPlh7a-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="T0We0NtcrN8elPUPlh7a-10" target="T0We0NtcrN8elPUPlh7a-11" edge="1">
@@ -348,7 +348,7 @@
         <mxCell id="T0We0NtcrN8elPUPlh7a-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="T0We0NtcrN8elPUPlh7a-20" target="T0We0NtcrN8elPUPlh7a-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0We0NtcrN8elPUPlh7a-20" value="RF2: CADASTRO DE TAREFAS&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="T0We0NtcrN8elPUPlh7a-20" value="RF2: CADASTRO DE TAREFAS&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#44FF33;" parent="1" vertex="1">
           <mxGeometry x="140" y="-1000" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T0We0NtcrN8elPUPlh7a-24" value="Cadastro de tarefas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -371,10 +371,10 @@
         <mxCell id="Vi69-NObOVmHMHU-er4i-2" value="cadastro das tarefas&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="-930" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vi69-NObOVmHMHU-er4i-4" value="RF3: Organizar tarefas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Vi69-NObOVmHMHU-er4i-4" value="RF3: Organizar tarefas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#86FF28;" vertex="1" parent="1">
           <mxGeometry x="90" y="-932" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vi69-NObOVmHMHU-er4i-8" value="RF4 : Horário programado para fazer as tarefas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Vi69-NObOVmHMHU-er4i-8" value="RF4 : Horário programado para fazer as tarefas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#84FF36;" vertex="1" parent="1">
           <mxGeometry x="150" y="-890" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
