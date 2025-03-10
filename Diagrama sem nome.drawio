@@ -261,7 +261,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vbX61oxMYHXA8ReY8mgt" name="Página-5">
-    <mxGraphModel dx="1272" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1575" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,6 +321,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Bi-9-6r2w6pc7KKXzgYD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="T0We0NtcrN8elPUPlh7a-10" target="Bi-9-6r2w6pc7KKXzgYD-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="-947" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bi-9-6r2w6pc7KKXzgYD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T0We0NtcrN8elPUPlh7a-10" target="Bi-9-6r2w6pc7KKXzgYD-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="-947" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T0We0NtcrN8elPUPlh7a-10" value="USUÀRIO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="-980" width="50" height="100" as="geometry" />
         </mxCell>
@@ -376,6 +386,34 @@
         </mxCell>
         <mxCell id="Vi69-NObOVmHMHU-er4i-8" value="RF4 : Horário programado para fazer as tarefas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#84FF36;" vertex="1" parent="1">
           <mxGeometry x="150" y="-890" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi-9-6r2w6pc7KKXzgYD-2" value="Organização das tarefas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-1030" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi-9-6r2w6pc7KKXzgYD-5" value="Adicionar horários programados" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-920" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi-9-6r2w6pc7KKXzgYD-7" value="Organização e horário das tarefas&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-704" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi-9-6r2w6pc7KKXzgYD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Bi-9-6r2w6pc7KKXzgYD-7" source="Bi-9-6r2w6pc7KKXzgYD-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bi-9-6r2w6pc7KKXzgYD-8" value="Tarefa 11 fazer as 15:00" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bi-9-6r2w6pc7KKXzgYD-7">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi-9-6r2w6pc7KKXzgYD-10" value="Tarefa 2 fazer 14\02" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bi-9-6r2w6pc7KKXzgYD-7">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi-9-6r2w6pc7KKXzgYD-11" value="Tarefa 3 fazer 18\02" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bi-9-6r2w6pc7KKXzgYD-7">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi-9-6r2w6pc7KKXzgYD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.022;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T0We0NtcrN8elPUPlh7a-26" target="Bi-9-6r2w6pc7KKXzgYD-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="-600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
