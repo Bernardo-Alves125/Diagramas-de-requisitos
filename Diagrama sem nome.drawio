@@ -396,11 +396,6 @@
         <mxCell id="Bi-9-6r2w6pc7KKXzgYD-7" value="Organização e horário das tarefas&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-704" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Bi-9-6r2w6pc7KKXzgYD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Bi-9-6r2w6pc7KKXzgYD-7" source="Bi-9-6r2w6pc7KKXzgYD-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Bi-9-6r2w6pc7KKXzgYD-8" value="Tarefa 11 fazer as 15:00" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Bi-9-6r2w6pc7KKXzgYD-7">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
