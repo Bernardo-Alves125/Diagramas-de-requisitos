@@ -682,8 +682,51 @@
         <mxCell id="X6U96TmzgfKPf_y9PTv6-20" value="Pacote de Relatórios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="2030" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="X6U96TmzgfKPf_y9PTv6-22" value="DIAGRAMA DE COMPONENTES:&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2100" width="160" height="120" as="geometry" />
+        <mxCell id="X6U96TmzgfKPf_y9PTv6-22" value="DIAGRAMA DE COMPONENTES: SISTEMA DE GERENCIAMENTO DE VENDAS ONLINE&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="2080" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="X6U96TmzgfKPf_y9PTv6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="X6U96TmzgfKPf_y9PTv6-25" target="X6U96TmzgfKPf_y9PTv6-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="2360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X6U96TmzgfKPf_y9PTv6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X6U96TmzgfKPf_y9PTv6-25" target="X6U96TmzgfKPf_y9PTv6-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="2255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X6U96TmzgfKPf_y9PTv6-25" value="Componentes de autenticação&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2210" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="X6U96TmzgfKPf_y9PTv6-27" value="Componente de Catálogo de produtos&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X6U96TmzgfKPf_y9PTv6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="X6U96TmzgfKPf_y9PTv6-29" target="X6U96TmzgfKPf_y9PTv6-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="2340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X6U96TmzgfKPf_y9PTv6-29" value="Componente de carrinho de compras&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2215" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X6U96TmzgfKPf_y9PTv6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X6U96TmzgfKPf_y9PTv6-31" target="X6U96TmzgfKPf_y9PTv6-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="2500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X6U96TmzgfKPf_y9PTv6-31" value="Componente de processamento de pedidos&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X6U96TmzgfKPf_y9PTv6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="X6U96TmzgfKPf_y9PTv6-33" target="X6U96TmzgfKPf_y9PTv6-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="2530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X6U96TmzgfKPf_y9PTv6-33" value="Componente de pagamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X6U96TmzgfKPf_y9PTv6-35" value="Componente de Notificação" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2490" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
