@@ -853,7 +853,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BivwoeKQUASWH6Mr5U2Z" name="Página-7">
-    <mxGraphModel dx="1720" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1462" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -924,11 +924,6 @@
         <mxCell id="5v1b1ZnqfWxOLskrQtnG-11" value="gerenciamento e atualização do estoque&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="463" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_QfWR-bp_zq3efbMtMgs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_QfWR-bp_zq3efbMtMgs-3" target="_QfWR-bp_zq3efbMtMgs-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_QfWR-bp_zq3efbMtMgs-3" value="Gerenciamento de vendas&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="463" width="120" height="80" as="geometry" />
         </mxCell>
@@ -945,6 +940,9 @@
               <mxPoint x="1525" y="840" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rOxkeC0fjvFT78J52Sed-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_QfWR-bp_zq3efbMtMgs-14" target="_QfWR-bp_zq3efbMtMgs-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_QfWR-bp_zq3efbMtMgs-14" value="&lt;font size=&quot;3&quot;&gt;SISTEMA&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="440" width="240" height="140" as="geometry" />
