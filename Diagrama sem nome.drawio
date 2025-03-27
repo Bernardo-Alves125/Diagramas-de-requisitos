@@ -874,19 +874,16 @@
         <mxCell id="ubAgMaBecrVMfBjszxxq-3" value="Cadastro de produtos&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5v1b1ZnqfWxOLskrQtnG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5v1b1ZnqfWxOLskrQtnG-5" target="5v1b1ZnqfWxOLskrQtnG-7">
+        <mxCell id="_QfWR-bp_zq3efbMtMgs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5v1b1ZnqfWxOLskrQtnG-5" target="5v1b1ZnqfWxOLskrQtnG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QfWR-bp_zq3efbMtMgs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5v1b1ZnqfWxOLskrQtnG-5" target="_QfWR-bp_zq3efbMtMgs-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_QfWR-bp_zq3efbMtMgs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5v1b1ZnqfWxOLskrQtnG-5" target="5v1b1ZnqfWxOLskrQtnG-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5v1b1ZnqfWxOLskrQtnG-5" value="cadastro de quantidade de produto&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="230" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="5v1b1ZnqfWxOLskrQtnG-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_QfWR-bp_zq3efbMtMgs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5v1b1ZnqfWxOLskrQtnG-8" target="_QfWR-bp_zq3efbMtMgs-9">
           <mxGeometry relative="1" as="geometry">
@@ -896,10 +893,8 @@
         <mxCell id="5v1b1ZnqfWxOLskrQtnG-8" value="Gerenciador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="450" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="_QfWR-bp_zq3efbMtMgs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5v1b1ZnqfWxOLskrQtnG-11" target="_QfWR-bp_zq3efbMtMgs-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="503" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="_QfWR-bp_zq3efbMtMgs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5v1b1ZnqfWxOLskrQtnG-11" target="_QfWR-bp_zq3efbMtMgs-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5v1b1ZnqfWxOLskrQtnG-11" value="gereciamento de estoque&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="463" width="120" height="80" as="geometry" />
@@ -910,7 +905,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_QfWR-bp_zq3efbMtMgs-3" value="Gerenciamento de vendas&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="470" width="120" height="80" as="geometry" />
+          <mxGeometry x="730" y="463" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_QfWR-bp_zq3efbMtMgs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QfWR-bp_zq3efbMtMgs-9" target="5v1b1ZnqfWxOLskrQtnG-11">
           <mxGeometry relative="1" as="geometry" />
@@ -919,7 +914,25 @@
           <mxGeometry x="190" y="463" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_QfWR-bp_zq3efbMtMgs-14" value="&lt;font size=&quot;3&quot;&gt;SISTEMA&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="470" width="240" height="140" as="geometry" />
+          <mxGeometry x="890" y="440" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_QfWR-bp_zq3efbMtMgs-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_QfWR-bp_zq3efbMtMgs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.572;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_QfWR-bp_zq3efbMtMgs-14" target="_QfWR-bp_zq3efbMtMgs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QfWR-bp_zq3efbMtMgs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_QfWR-bp_zq3efbMtMgs-18" target="_QfWR-bp_zq3efbMtMgs-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QfWR-bp_zq3efbMtMgs-18" value="data de validade" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_QfWR-bp_zq3efbMtMgs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_QfWR-bp_zq3efbMtMgs-19" target="_QfWR-bp_zq3efbMtMgs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QfWR-bp_zq3efbMtMgs-19" value="Gerenciar validade do produto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="463" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
